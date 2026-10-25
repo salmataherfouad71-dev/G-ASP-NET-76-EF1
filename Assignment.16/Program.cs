@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            BookStoreDbContext Context = new BookStoreDbContext();
         }
     }
 }
